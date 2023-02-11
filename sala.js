@@ -36,5 +36,5 @@ function getData() {}
 
 function carregaSala(sala) {
     localStorage.setItem("nomeSala", sala);
-    location = "chat.html";
+//     location = "chat.html";
 }
